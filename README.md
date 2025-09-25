@@ -3,8 +3,8 @@
 👨🏻‍💻 Software Engineer | 🎓 Master's in AI @ Kathmandu University | 🌐 Open Source Contributor  
 
 I build practical software with a focus on robust engineering, automation, and open collaboration. Prior to that, I spent 3 years working on mobile apps and game projects leading to 150+ million downloads worldwide.
-Away from work, I spend my time as an indie hacker context switching between product-first and code-first axes.
 
+Away from keyboard, I like playing football, traveling, and spending time with people close.
 
 ---
 
