@@ -1,4 +1,4 @@
-## Hi, I'm [Sparsh](https://sparsh.dev)
+## Hi, I'm [Sparsh](https://sparsh.dev) - स्पर्श
 
 👨🏻‍💻 Software Engineer | 🎓 Master's in AI @ Kathmandu University | 🌐 Open Source Contributor  
 
