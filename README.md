@@ -13,13 +13,3 @@ I share insights and lessons learned at [**blog.sparsh.dev**](https://blog.spars
 Mostly, I write on software design, product engineering, AI, and open source development.
 
 ---
-
-### 🌐 Connect with me
-- Portfolio: [sparsh.dev](https://sparsh.dev)  
-- Blog: [blog.sparsh.dev](https://blog.sparsh.dev)  
-- LinkedIn: [linkedin.com/in/sparshrestha](https://linkedin.com/in/sparshrestha)
-
-
-“Build things that outlast trends, and share knowledge that others can build upon.”
-
----
