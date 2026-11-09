@@ -2,10 +2,10 @@
 
 👨🏻‍💻 Software Engineer | 🎓 Master's in AI @ Kathmandu University | 🌐 Open Source Contributor  
 
-* Software engineering manager with 8 years at Yarsa Labs, growing from developer to project manager to engineering manager.
-* Led teams behind mobile games that reached 200M+ downloads, and worked with developers, designers, security, and qa engineers on user-facing web and mobile apps.
-* Hands-on in backend infrastructure, system architecture, code review and applied AI: local LLM code review pipeline, RAG, e-commerce recommendations and speech translation.
-* Core maintainer of an open-source ERP and a technical writer since 2019. Pursuing an MTech in Artificial Intelligence at Kathmandu University.
+* Engineering Manager with 8 years at Yarsa Labs, growing from developer to project manager to engineering manager.
+* Led teams behind mobile games that reached 200M+ downloads, and worked on user-facing web and mobile apps.
+* Hands-on in backend infrastructure, system architecture, code review and applied AI
+* Core maintainer of an open-source ERP and a technical writer since 2019.
 
 Away from keyboard, I like playing football, traveling, and spending time with people close.
 
