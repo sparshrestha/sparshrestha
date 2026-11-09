@@ -7,12 +7,11 @@
 * Hands-on in backend infrastructure, system architecture, code review and applied AI
 * Core maintainer of an open-source ERP and a technical writer since 2019.
 
-Away from keyboard, I like playing football, traveling, and spending time with people close.
+AFK, I like playing football, traveling, and spending time with people close.
 
 ---
 
 ### ✍️ Technical Blog
-I share insights and lessons learned at [**blog.sparsh.dev**](https://blog.sparsh.dev).  
-Mostly, I write on software design, product engineering, AI, and open source development.
+I share insights and lessons learned at [**blog.sparsh.dev**](https://blog.sparsh.dev) on software design, product engineering, AI, and open source development.
 
 ---
